@@ -3,12 +3,10 @@ const userInput = prompt("Please enter text");
 
 if(userInput === userInput.toUpperCase()){
     console.log("Shouting")
-
 } 
 
 else if(userInput === userInput.toLowerCase()){
     console.log("Whispering")
-
 } 
 
 else{
