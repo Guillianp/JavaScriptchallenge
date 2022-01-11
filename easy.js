@@ -2,4 +2,4 @@
 var name1 = "Brandon"
 var name2 = "Guillian"
 
-console.log(`${name2} is longer than ${name1} by two letters`);
+console.log(`${name2} is longer than ${name1} by ${name2.length-name1.length} characters`);
