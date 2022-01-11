@@ -2,4 +2,4 @@
 var num1 = "14"
 var num2 = "7"
 
-console.log(`The difference between ${num1} and ${num2} is 7`)
+console.log(`The difference between ${num1} and ${num2} is ${num1-num2}`)
